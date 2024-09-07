@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleChat.UI", "IRCChat\SimpleChat.UI.csproj", "{87B477F0-D677-4D5A-8289-897B0D442171}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleChat.Core", "IRCChat.Core\SimpleChat.Core.csproj", "{77E2DB17-67F9-4833-8E17-5DA15DA9B537}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87B477F0-D677-4D5A-8289-897B0D442171}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87B477F0-D677-4D5A-8289-897B0D442171}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87B477F0-D677-4D5A-8289-897B0D442171}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87B477F0-D677-4D5A-8289-897B0D442171}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77E2DB17-67F9-4833-8E17-5DA15DA9B537}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77E2DB17-67F9-4833-8E17-5DA15DA9B537}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77E2DB17-67F9-4833-8E17-5DA15DA9B537}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77E2DB17-67F9-4833-8E17-5DA15DA9B537}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1D78044-5753-47FD-88D7-0D11F06DC31C}
+	EndGlobalSection
+EndGlobal
